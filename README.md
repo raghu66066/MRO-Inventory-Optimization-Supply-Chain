@@ -30,7 +30,6 @@ To maximize the Power BI VertiPaq engine's compression and query speed, the raw 
 
 ### 1. Data Cleaning & Extraction (SQL Server)
 The raw data contained unstructured strings, missing entries, and complex timestamp formats. The database script handles:
-- Stripping day prefixes from non-standard dates (`Wed Nov 27 2026`) and transforming them into a true database `DATE` format (`YYYY-MM-DD`).
 - Combining duplicated schema columns into standardized single-attribute text fields.
 - Truncating high-cardinality metadata timestamps to optimize overall row processing.
 - Isolating structural data using `SELECT DISTINCT` to auto-populate individual dimensional tables.
