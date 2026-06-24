@@ -1,5 +1,10 @@
 # MRO Inventory Optimization & Supply Chain Risk Dashboard
 
+
+Interactive MRO Inventory Optimization in Power BI
+
+![Alt text](https://github.com/raghu66066/Supply-Chain-Logistics-Dashboard/blob/4badbafa740ad4720018b23b9850bfd3b8adcda9/Images_used/Samsung_Supply%20chain%20dashboard.png)
+
 An end-to-end data analytics and master data management (MDM) project that transforms raw, unstandardized MRO (Maintenance, Repair, and Operations) inventory data into a highly compressed relational star schema and an actionable, exception-driven Power BI control center.
 
 ## 📌 Project Overview
