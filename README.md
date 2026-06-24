@@ -3,7 +3,7 @@
 
 Interactive MRO Inventory Optimization in Power BI
 
-![Alt text](https://github.com/raghu66066/Supply-Chain-Logistics-Dashboard/blob/4badbafa740ad4720018b23b9850bfd3b8adcda9/Images_used/Samsung_Supply%20chain%20dashboard.png)
+![Alt text](https://github.com/raghu66066/MRO-Inventory-Optimization-Supply-Chain/blob/dcbc030c67b02eb116d779f917b16bb7a964dc52/Images/MRO%20dashboard.png)
 
 An end-to-end data analytics and master data management (MDM) project that transforms raw, unstandardized MRO (Maintenance, Repair, and Operations) inventory data into a highly compressed relational star schema and an actionable, exception-driven Power BI control center.
 
